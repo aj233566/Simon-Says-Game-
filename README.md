@@ -4,19 +4,13 @@ An interactive memory game built using **HTML, CSS, and JavaScript**. The game g
 
 ## 🎮 Live Demo
 
-```text
 https://simon-says0.netlify.app
-```
+
 ---
 
 ## 📸 Preview
 
-
-```text
-
 ![Simon Says Game Screenshot](screenshot.png)
-```
-
 ---
 
 ## 🚀 Features
